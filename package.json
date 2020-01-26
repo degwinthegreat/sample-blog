@@ -14,5 +14,7 @@
     "@nuxtjs/dotenv": "^1.4.1",
     "nuxt": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "contentful": "^7.13.1"
+  }
 }
